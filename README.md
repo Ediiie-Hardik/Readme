@@ -91,15 +91,15 @@ This project is build using following teck stack and external open source or cus
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an example of how you may give instructions on setting up your project locally.
+Here is some instruction that will help you to setup this project locally and build and test.
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+To run this project i am assuming you have install following in your system.
+* Unity3D  - 2022.3.39 or above
   ```sh
-  npm install npm@latest -g
+ https://unity.com/releases/editor/archive
   ```
 
 ### Installation
