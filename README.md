@@ -99,6 +99,7 @@ To run this project i am assuming you have install following in your system.
   ```sh
   https://unity.com/releases/editor/archive
   ```
+* While install Unity must add Android , iOS , Winodw , WebGL and Visual Studio 
 
 ### Steps
 
