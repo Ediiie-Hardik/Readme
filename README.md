@@ -99,7 +99,7 @@ To get a local copy up and running follow these simple example steps.
 To run this project i am assuming you have install following in your system.
 * Unity3D  - 2022.3.39 or above
   ```sh
- https://unity.com/releases/editor/archive
+  https://unity.com/releases/editor/archive
   ```
 
 ### Installation
