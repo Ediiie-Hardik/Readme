@@ -81,7 +81,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ultricies nunc.
 
 This project is build using following teck stack and external open source or custom plugin and framework developerd by Ediiie. 
 
-* [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
