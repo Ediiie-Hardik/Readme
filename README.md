@@ -64,16 +64,15 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-There are many great README templates available on GitHub; however, I didn't find one that really suited my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. Duis dictum ipsum quis mauris cursus faucibus. Vivamus vitae eros at odio tempor pellentesque. Phasellus vel convallis massa. Integer commodo arcu augue, a iaculis velit auctor a. Vivamus varius nisl eu nulla tristique elementum. Morbi et justo elit. Quisque aliquet lorem id eros fermentum, vitae luctus metus malesuada.
 
 Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should implement DRY principles to the rest of your life :smile:
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. 
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. 
+* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. 
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this template!
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ultricies nunc. Maecenas placerat neque massa, vel sodales libero scelerisque et. Donec purus urna, ultrices non sapien ac, mattis venenatis ex. Donec nec tellus tristique, sodales massa condimentum, laoreet velit. Fusce suscipit elementum turpis id pellentesque. 
 
-Use the `BLANK_README.md` to get started.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
