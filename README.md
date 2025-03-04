@@ -91,6 +91,10 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 To run this project i am assuming you have install following in your system.
+* UnityHub
+  ```sh
+  https://unity.com/download
+  ```
 * Unity3D  - 2022.3.39 or above
   ```sh
   https://unity.com/releases/editor/archive
@@ -100,11 +104,8 @@ To run this project i am assuming you have install following in your system.
 
 _Below is an example of how you can instruct your audience on installing and setting up your app. This template doesn't rely on any external dependencies or services._
 
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/github_username/repo_name.git
-   ```
+1. Clone the repo
+2. Open Unity Hub
 3. Install NPM packages
    ```sh
    npm install
