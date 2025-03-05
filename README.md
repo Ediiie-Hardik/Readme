@@ -38,9 +38,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#Steps">Steps</a></li>
-        <li><a href="#Android Setup">Android Setup</a></li>
-        <li><a href="#iOS Setup">iOS Setup</a></li>
+        <li><a href="#steps">Steps</a></li>
+        <li><a href="#android-setup">Android Setup</a></li>
+        <li><a href="#ios-setup">iOS Setup</a></li>
       </ul>
     </li>
   </ol>
