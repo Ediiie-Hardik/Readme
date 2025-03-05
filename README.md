@@ -122,7 +122,7 @@ _Below is an example of how you can instruct your audience on installing and set
     4. Export project should mark as false
     5. Open Scene "Menu" Select GameInit Component > mark isTesting = true
     6. Build > Select path > Save 
-6. How to create Addressable (<a href="#">Reference Video</a>)
+6. How to create Addressable (<a href="https://youtu.be/IS5gH-ZlCLs">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
     3. Select Add prefab inside that folder and tick as Addressable from inspector 
@@ -147,14 +147,14 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Select iOS.
 3. Click on "switch Platform".
 4. wait till switch complete.
-5. How to Build  (<a href="#">Reference Video</a>)
+5. How to Build  (<a href="https://youtu.be/UUpJYASlLqg">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Click File > Build Setting. (Ctrl + Shift + B)
     3. Make sure 3 scene added in "Scene In Build" (Menu , Launcher_DataTest , ARI)
     4. Open Scene "Menu" Select GameInit Component > mark isTesting = true
     5. Build > Select path > Save
     6. Open build in Xcode and build and run 
-6. How to create Addressable (<a href="#">Reference Video</a>)
+6. How to create Addressable (<a href="https://youtu.be/IS5gH-ZlCLs">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
     3. Select Add prefab inside that folder and tick as Addressable from inspector 
@@ -162,7 +162,7 @@ _Below is an example of how you can instruct your audience on installing and set
     5. Expand Modules (default)
     6. Rename and keep only prefab name for example "Assets/Ediiie/Addressable/OSCI7C04" to "OSCI7C04"
     7. Build as new or previous build 
-7. For iOS Export for native (<a href="#">Reference Video</a>)
+7. For iOS Export for Flutter-iOS (<a href="https://youtu.be/bzO53n52BI0">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
     3. Click Flutter from menubad >> iOS Export (releases) or (Ctrl + Altr + I) 
