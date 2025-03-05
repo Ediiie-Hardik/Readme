@@ -165,3 +165,6 @@ _Below is an example of how you can instruct your audience on installing and set
     2. Rename "Resources" folder to "Addressable"
     3. Click Flutter from menubad >> iOS Export (releases) or (Ctrl + Altr + I) 
     4. Save on path 
+
+
+    [product-screenshot]: images/screenshot.png
