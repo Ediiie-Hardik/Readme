@@ -22,7 +22,6 @@
   </p>
 </div>
 
-## readme top
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -63,7 +62,7 @@ The LEAD School Student & Parent App allows parents of partner schools to track 
 
 We at Lead School define excellence as education that empowers students to be capable adults, responsible citizens and empathetic human beings. This is captured by our education mantra: LEARN.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 ### Built With
@@ -73,7 +72,7 @@ This project is build using following teck stack and external open source or cus
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 
 
@@ -108,7 +107,7 @@ _Below is an example of how you can instruct your audience on installing and set
 6. wait till project load 
 7. click fix incase of getting any shader issues
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ### Android Setup
 1. Click File > Build Setting. (Ctrl + Shift + B)
@@ -140,7 +139,7 @@ _Below is an example of how you can instruct your audience on installing and set
     7. Click on Export 
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#about-the-project">back to top</a>)</p>
 
 ### iOS Setup
 1. Click File > Build Setting. (Ctrl + Shift + B)
