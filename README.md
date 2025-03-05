@@ -39,6 +39,9 @@
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
         <li><a href="#installation">Steps</a></li>
+        <li><a href="#installation">Android setup</a></li>
+        <li><a href="#installation">iOS setup</a></li>
+        
       </ul>
     </li>
   </ol>
