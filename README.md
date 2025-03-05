@@ -38,9 +38,9 @@
       <a href="#getting-started">Getting Started</a>
       <ul>
         <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Steps</a></li>
-        <li><a href="#installation">Android setup</a></li>
-        <li><a href="#installation">iOS setup</a></li>
+        <li><a href="#Steps">Steps</a></li>
+        <li><a href="#Android Setup">Android Setup</a></li>
+        <li><a href="#iOS Setup">iOS Setup</a></li>
       </ul>
     </li>
   </ol>
@@ -110,7 +110,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### Android setup
+### Android Setup
 1. Click File > Build Setting. (Ctrl + Shift + B)
 2. Select Android.
 3. Click on "switch Platform".
@@ -142,7 +142,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-### iOS setup
+### iOS Setup
 1. Click File > Build Setting. (Ctrl + Shift + B)
 2. Select iOS.
 3. Click on "switch Platform".
