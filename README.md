@@ -67,7 +67,7 @@ We at Lead School define excellence as education that empowers students to be ca
 
 ### Built With
 
-This project is build using following teck stack and external open source or custom plugin and framework developerd by Ediiie. 
+This project is build using following teck stack and external open source or custom plugin and framework developed by Ediiie. 
 
 [![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity)](https://unity3d.com)
 
@@ -114,14 +114,14 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Select Android.
 3. Click on "switch Platform".
 4. wait till switch complete.
-5. How to Build Android APK 
+5. How to Build Android APK  (<a href="#">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Click File > Build Setting. (Ctrl + Shift + B)
     3. Make sure 3 scene added in "Scene In Build" (Menu , Launcher_DataTest , ARI)
     4. Export project should mark as false
     5. Open Scene "Menu" Select GameInit Component > mark isTesting = true
     6. Build > Select path > Save 
-6. How to create Addressable
+6. How to create Addressable (<a href="#">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
     3. Select Add prefab inside that folder and tick as Addressable from inspector 
@@ -129,7 +129,7 @@ _Below is an example of how you can instruct your audience on installing and set
     5. Expand Modules (default)
     6. Rename and keep only prefab name for example "Assets/Ediiie/Addressable/OSCI7C04" to "OSCI7C04"
     7. Build as new or previous build 
-7. For Android Export for native
+7. For Android Export for native (<a href="#">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
     3. Click File > Build Setting. (Ctrl + Shift + B)
