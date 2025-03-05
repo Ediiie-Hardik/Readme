@@ -102,12 +102,14 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Open Unity Hub
 3. Click on "Add" button and then "Add project from disk"
 4. Select your cloned project path 
-5. Click on Unknown
-6. Scroll down and select installed Unity (2022.3.x) and select android or window as per your choice.
-7. Click on "Open with 2022.3.xx"
-8. Click on "Chnage version" (if ask)
-9. Click on project again if not load and then continue button
-10. wait till project load 
+5. Click on project and open for Android or iOS 
+6. wait till project load 
+7. click fix incase of getting any shader issues
+8. Build and run
+
+
+
+
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
