@@ -130,7 +130,7 @@ _Below is an example of how you can instruct your audience on installing and set
     5. Expand Modules (default)
     6. Rename and keep only prefab name for example "Assets/Ediiie/Addressable/OSCI7C04" to "OSCI7C04"
     7. Build as new or previous build 
-7. For Android Export for native (<a href="https://youtu.be/A3P4kp5s97E"  target="_blank">Reference Video</a>)
+7. For Android Export for native (<a href="https://youtu.be/A3P4kp5s97E">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
     3. Click File > Build Setting. (Ctrl + Shift + B)
