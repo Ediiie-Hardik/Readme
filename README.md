@@ -51,17 +51,17 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. Duis dictum ipsum quis mauris cursus faucibus. Vivamus vitae eros at odio tempor pellentesque. Phasellus vel convallis massa. Integer commodo arcu augue, a iaculis velit auctor a. Vivamus varius nisl eu nulla tristique elementum. Morbi et justo elit. Quisque aliquet lorem id eros fermentum, vitae luctus metus malesuada.
+LEAD School is currently offering LEAD School@Home for all our partner schools parents. Your child can now attend live classes daily, attempt quizzes, ask doubts to their school teachers.
 
-Here's why:
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. 
-* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc quis augue nisl. 
+You can also join our LEAD School@Home program even if you are not part of a LEAD partner school, simply register your number and your child details to start your classes.
+The LEAD School Student & Parent App allows parents of partner schools to track the progress of their child in school by keeping them updated on:
+* Unit Progress: Know which units are completed and what your kid has learned.
+* Attendance: Check your kids attendance in school for every day.
+* Assessments: View reports on the student grade and scores by the student in different assessments.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed nec ultricies nunc. Maecenas placerat neque massa, vel sodales libero scelerisque et. Donec purus urna, ultrices non sapien ac, mattis venenatis ex. Donec nec tellus tristique, sodales massa condimentum, laoreet velit. Fusce suscipit elementum turpis id pellentesque. 
+We at Lead School define excellence as education that empowers students to be capable adults, responsible citizens and empathetic human beings. This is captured by our education mantra: LEARN.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 ### Built With
