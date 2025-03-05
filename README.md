@@ -129,7 +129,7 @@ _Below is an example of how you can instruct your audience on installing and set
     4. Click on Window > Asset Management > Addressable > Groups
     5. Expand Modules (default)
     6. Rename and keep only prefab name for example "Assets/Ediiie/Addressable/OSCI7C04" to "OSCI7C04"
-    7. Build as new or previous build 
+    7. Build new if you are building first time or use updated from next
 7. For Android Export for native (<a href="https://youtu.be/A3P4kp5s97E">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
@@ -161,7 +161,7 @@ _Below is an example of how you can instruct your audience on installing and set
     4. Click on Window > Asset Management > Addressabl >Groups
     5. Expand Modules (default)
     6. Rename and keep only prefab name for example "Assets/Ediiie/Addressable/OSCI7C04" to "OSCI7C04"
-    7. Build as new or previous build 
+    7. Build new if you are building first time or use updated from next
 7. For iOS Export for Flutter-iOS (<a href="https://youtu.be/bzO53n52BI0">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Rename "Resources" folder to "Addressable"
