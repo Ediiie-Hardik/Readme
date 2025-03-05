@@ -108,12 +108,23 @@ _Below is an example of how you can instruct your audience on installing and set
 8. Build and run
 
 
-
-
-
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+### Android setup
+1. Click File > Build Setting. (Ctrl + Shift + B)
+2. Select Android.
+3. Click on "switch Platform".
+4. wait till switch complete.
+5. 
+
+
+### Build iOS 
+1. Click File > Build Setting. (Ctrl + Shift + B)
+2. Select iOS.
+3. Click on "switch Platform".
+4. wait till switch complete.
+5. Build 
+6. Open build in Xcode and run
 
 
 
