@@ -115,7 +115,7 @@ _Below is an example of how you can instruct your audience on installing and set
 2. Select Android.
 3. Click on "switch Platform".
 4. wait till switch complete.
-5. How to Build Android APK  (<a href="#">Reference Video</a>)
+5. How to Build Android APK  (<a href="https://youtu.be/Pzyaxx48NMY">Reference Video</a>)
     1. Check all modules prefab in "Assets  >> Ediiie >>  Resources" folder
     2. Click File > Build Setting. (Ctrl + Shift + B)
     3. Make sure 3 scene added in "Scene In Build" (Menu , Launcher_DataTest , ARI)
