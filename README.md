@@ -47,7 +47,7 @@
 
 
 
-<!-- ABOUT THE PROJECT -->
+<!-- ABOUT THE PROJECT 
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -63,6 +63,7 @@ The LEAD School Student & Parent App allows parents of partner schools to track 
 We at Lead School define excellence as education that empowers students to be capable adults, responsible citizens and empathetic human beings. This is captured by our education mantra: LEARN.
 
 <p align="right">(<a href="#about-the-project">back to top</a>)</p>
+-->
 
 
 ### Built With
